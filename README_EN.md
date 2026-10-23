@@ -19,8 +19,8 @@
   <a href="#-featured-projects">
     <img src="https://img.shields.io/badge/👾_PRESS_START_--%3E_VIEW_PROJECTS-2E6EEF?style=for-the-badge&logoWidth=40" alt="PRESS START" />
   </a>
-  <a href="https://raw.githubusercontent.com/KevinBertolini12/KevinBertolini12/main/curriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_VIEW_RESUME_PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  <a href="SEU_LINK_DO_GOOGLE_DRIVE_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/👁️_VIEW_RESUME_PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume PDF" />
   </a>
 
 </div>
