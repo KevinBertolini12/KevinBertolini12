@@ -1,10 +1,10 @@
 <!-- NAVEGAÇÃO DE IDIOMAS -->
 <div align="right">
-  <a href="https://github.com/KevinBertolini12"><img src="https://img.shields.io/badge/🇧🇷_Português-000000?style=for-the-badge&color=2E6EEF" alt="Versão em Português"></a>
-  <a href="https://github.com/KevinBertolini12"><img src="https://img.shields.io/badge/🇺🇸_English-000000?style=for-the-badge&color=1f2428" alt="English Version"></a>
+  <a href="https://github.com/KevinBertolini12/KevinBertolini12/blob/main/README.md"><img src="https://img.shields.io/badge/Português-2E6EEF?style=for-the-badge&logo=github&logoColor=white" alt="Versão em Português"></a>
+  <a href="https://github.com/KevinBertolini12/KevinBertolini12/blob/main/README_EN.md"><img src="https://img.shields.io/badge/English-1f2428?style=for-the-badge&logo=github&logoColor=white" alt="English Version"></a>
 </div>
 
-<!-- CABEÇALHO RETRO / ARCADE COM ANIMAÇÃO DE SPACE INVADER -->
+<!-- CABEÇALHO RETRO / ARCADE -->
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/githubfiles/invader.gif" width="60" alt="Space Invader Animation">
@@ -19,8 +19,8 @@
   <a href="#-projetos-em-destaque">
     <img src="https://img.shields.io/badge/👾_PRESS_START_--%3E_VER_PROJETOS-2E6EEF?style=for-the-badge&logoWidth=40" alt="PRESS START" />
   </a>
-  <a href="https://www.linkedin.com/in/kevin-bertolini-531a332a0" target="_blank">
-    <img src="https://img.shields.io/badge/📄_BAIXAR_CURRÍCULO-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
+  <a href="https://raw.githubusercontent.com/KevinBertolini12/KevinBertolini12/main/curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VER_CURRÍCULO_PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo PDF" />
   </a>
 
 </div>
@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/kevin-bertolini-531a332a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kevinbertolini1203@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevinbertolini1203@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
