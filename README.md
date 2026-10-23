@@ -19,7 +19,7 @@
   <a href="#-projetos-em-destaque">
     <img src="https://img.shields.io/badge/👾_PRESS_START_--%3E_VER_PROJETOS-2E6EEF?style=for-the-badge&logoWidth=40" alt="PRESS START" />
   </a>
-  <a href="SEU_LINK_DO_GOOGLE_DRIVE_AQUI" target="_blank">
+  <a href="https://github.com/KevinBertolini12/KevinBertolini12/blob/main/curriculo.pdf" target="_blank">
     <img src="https://img.shields.io/badge/👁️_VER_CURRÍCULO_PDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver Currículo PDF" />
   </a>
 
