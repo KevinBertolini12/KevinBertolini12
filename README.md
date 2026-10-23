@@ -1,11 +1,13 @@
 <!-- NAVEGAÇÃO DE IDIOMAS -->
 <div align="right">
-  <a href="https://github.com/KevinBertolini12"><img src="https://img.shields.io/badge/🇧🇷_Português-000000?style=for-the-badge" alt="Versão em Português"></a>
-  <a href="https://github.com/KevinBertolini12"><img src="https://img.shields.io/badge/🇺🇸_English-000000?style=for-the-badge" alt="English Version"></a>
+  <a href="https://github.com/KevinBertolini12"><img src="https://img.shields.io/badge/🇧🇷_Português-000000?style=for-the-badge&color=2E6EEF" alt="Versão em Português"></a>
+  <a href="https://github.com/KevinBertolini12"><img src="https://img.shields.io/badge/🇺🇸_English-000000?style=for-the-badge&color=1f2428" alt="English Version"></a>
 </div>
 
-<!-- CABEÇALHO RETRO / ARCADE -->
+<!-- CABEÇALHO RETRO / ARCADE COM ANIMAÇÃO DE SPACE INVADER -->
 <div align="center">
+
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/githubfiles/invader.gif" width="60" alt="Space Invader Animation">
 
   # 👾 KEVIN BERTOLINI
 
@@ -13,9 +15,12 @@
 
   <br/><br/>
 
-  <!-- BOTÃO PRESS START AMIGÁVEL PARA PROJETOS -->
+  <!-- BOTÕES DE ACESSO RÁPIDO -->
   <a href="#-projetos-em-destaque">
     <img src="https://img.shields.io/badge/👾_PRESS_START_--%3E_VER_PROJETOS-2E6EEF?style=for-the-badge&logoWidth=40" alt="PRESS START" />
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-bertolini-531a332a0" target="_blank">
+    <img src="https://img.shields.io/badge/📄_BAIXAR_CURRÍCULO-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
   </a>
 
 </div>
@@ -54,9 +59,9 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **🛸 CanaScan** | Visão computacional e Machine Learning para detecção de falhas de plantio em lavouras de cana. | `Python` `OpenCV` `U-Net` `PySide6` |
-| **✂️ Bella & Chic** | Plataforma SaaS multiempresa para gestão de agendamentos e CRM para salões/barbearias. | `React` `TypeScript` `Node.js` `Firebase` |
-| **💼 Bertolini ERP** | Sistema de Gestão Empresarial e PDV desktop completo com banco de dados relacional. | `Python` `FastAPI` `PySide6` `SQLAlchemy` |
+| **🛸 [CanaScan](https://github.com/KevinBertolini12/canascan)** | Visão computacional e Machine Learning para detecção de falhas de plantio em lavouras de cana. | `Python` `OpenCV` `U-Net` `PySide6` |
+| **✂️ [Bella & Chic](https://github.com/KevinBertolini12/bella-chic)** | Plataforma SaaS multiempresa para gestão de agendamentos e CRM para salões/barbearias. | `React` `TypeScript` `Node.js` `Firebase` |
+| **💼 [Bertolini ERP](https://github.com/KevinBertolini12/bertolini-erp)** | Sistema de Gestão Empresarial e PDV desktop completo com banco de dados relacional. | `Python` `FastAPI` `PySide6` `SQLAlchemy` |
 
 ---
 
