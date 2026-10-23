@@ -26,10 +26,10 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (UniCesumar)[cite: 6]
-- 🔬 Técnico em Química com experiência prática em **Análise de Dados Industriais & Automação**[cite: 13, 18, 19]
-- 🚀 Desenvolvedor de Software focado em criar soluções em **Python, React, TypeScript e SQL**[cite: 11, 13, 18]
-- 📍 Pontal, São Paulo - Brasil[cite: 15, 17, 18, 19]
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (UniCesumar)
+- 🔬 Técnico em Química com experiência prática em **Análise de Dados Industriais & Automação**
+- 🚀 Desenvolvedor de Software focado em criar soluções em **Python, React, TypeScript e SQL**
+- 📍 Pontal, São Paulo - Brasil
 
 ---
 
@@ -54,9 +54,9 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **🛸 CanaScan** | Visão computacional e Machine Learning para detecção de falhas de plantio em lavouras de cana.[cite: 18] | `Python` `OpenCV` `U-Net` `PySide6`[cite: 18] |
-| **✂️ Bella & Chic** | Plataforma SaaS multiempresa para gestão de agendamentos e CRM para salões/barbearias.[cite: 18] | `React` `TypeScript` `Node.js` `Firebase`[cite: 18] |
-| **💼 Bertolini ERP** | Sistema de Gestão Empresarial e PDV desktop completo com banco de dados relacional.[cite: 11, 13] | `Python` `FastAPI` `PySide6` `SQLAlchemy`[cite: 13] |
+| **🛸 CanaScan** | Visão computacional e Machine Learning para detecção de falhas de plantio em lavouras de cana. | `Python` `OpenCV` `U-Net` `PySide6` |
+| **✂️ Bella & Chic** | Plataforma SaaS multiempresa para gestão de agendamentos e CRM para salões/barbearias. | `React` `TypeScript` `Node.js` `Firebase` |
+| **💼 Bertolini ERP** | Sistema de Gestão Empresarial e PDV desktop completo com banco de dados relacional. | `Python` `FastAPI` `PySide6` `SQLAlchemy` |
 
 ---
 
